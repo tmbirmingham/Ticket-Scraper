@@ -1,0 +1,61 @@
+Ticket ID,User,Technician,Date Submitted,Summary,Urgency
+47001,jdoe@example.com,tbirmingham,02/24/2026,Outlook freezing,Medium
+47002,asmith@example.com,tbirmingham,02/24/2026,Printer offline,High
+47003,mjones@example.com,tbirmingham,02/23/2026,Password reset,Low
+47004,kbrown@example.com,tbirmingham,02/22/2026,VPN not connecting,High
+47005,cwilson@example.com,tbirmingham,02/21/2026,Computer slow,Medium
+47006,lmartin@example.com,tbirmingham,02/20/2026,Software installation request,Low
+47007,dlee@example.com,tbirmingham,02/19/2026,Email not syncing,Medium
+47008,hwalker@example.com,tbirmingham,02/18/2026,Blue screen error,High
+47009,pscott@example.com,tbirmingham,02/17/2026,Monitor flickering,Medium
+47010,rclark@example.com,tbirmingham,02/16/2026,Cannot access shared drive,High
+47011,ajames@example.com,tbirmingham,02/15/2026,Keyboard not responding,Medium
+47012,rwhite@example.com,tbirmingham,02/14/2026,Cannot print PDF files,High
+47013,dmurphy@example.com,tbirmingham,02/13/2026,Forgot password,Low
+47014,lroberts@example.com,tbirmingham,02/12/2026,Outlook not syncing,Medium
+47015,tking@example.com,tbirmingham,02/11/2026,Unable to connect to VPN,High
+47016,mgreen@example.com,tbirmingham,02/10/2026,Computer running slow,Medium
+47017,hyoung@example.com,tbirmingham,02/09/2026,Software installation needed,Low
+47018,kallen@example.com,tbirmingham,02/08/2026,Email not sending,Medium
+47019,sjames@example.com,tbirmingham,02/07/2026,Monitor flickering,Medium
+47020,cgriffin@example.com,tbirmingham,02/06/2026,Blue screen error,High
+47021,lwood@example.com,tbirmingham,02/05/2026,Shared drive inaccessible,High
+47022,rrobinson@example.com,tbirmingham,02/04/2026,Printer not connecting,Medium
+47023,psanders@example.com,tbirmingham,02/03/2026,VPN disconnecting,High
+47024,mbell@example.com,tbirmingham,02/02/2026,Outlook crashing,Medium
+47025,awood@example.com,tbirmingham,02/01/2026,Password reset,Low
+47026,jcox@example.com,tbirmingham,01/31/2026,Computer slow to boot,Medium
+47027,lwarren@example.com,tbirmingham,01/30/2026,Cannot access email,High
+47028,mreed@example.com,tbirmingham,01/29/2026,Monitor blank screen,Medium
+47029,hbrooks@example.com,tbirmingham,01/28/2026,Keyboard typing wrong characters,Medium
+47030,rbutler@example.com,tbirmingham,01/27/2026,Software update failed,Low
+47031,sjames@example.com,tbirmingham,01/26/2026,VPN slow connection,Medium
+47032,cdavis@example.com,tbirmingham,01/25/2026,Email attachment not sending,Medium
+47033,kmorris@example.com,tbirmingham,01/24/2026,Computer freezing,High
+47034,llopez@example.com,tbirmingham,01/23/2026,Cannot connect to printer,Medium
+47035,abaker@example.com,tbirmingham,01/22/2026,Shared folder missing,High
+47036,rjenkins@example.com,tbirmingham,01/21/2026,Monitor flickers intermittently,Medium
+47037,jmorris@example.com,tbirmingham,01/20/2026,Cannot login to VPN,High
+47038,lgray@example.com,tbirmingham,01/19/2026,Software license expired,Low
+47039,hyoung@example.com,tbirmingham,01/18/2026,Printer paper jam,Medium
+47040,jlopez@example.com,tbirmingham,01/17/2026,Outlook inbox slow,Medium
+47041,rclark@example.com,tbirmingham,01/16/2026,Blue screen on startup,High
+47042,kallen@example.com,tbirmingham,01/15/2026,Cannot open shared file,High
+47043,cgreen@example.com,tbirmingham,01/14/2026,Keyboard unresponsive,Medium
+47044,sjones@example.com,tbirmingham,01/13/2026,Monitor not detected,Medium
+47045,lwhite@example.com,tbirmingham,01/12/2026,Outlook search not working,Medium
+47046,mbrown@example.com,tbirmingham,01/11/2026,VPN keeps disconnecting,High
+47047,dlee@example.com,tbirmingham,01/10/2026,Cannot install software,Low
+47048,hwalker@example.com,tbirmingham,01/09/2026,Shared folder missing files,High
+47049,pwatson@example.com,tbirmingham,01/08/2026,Printer offline randomly,Medium
+47050,rking@example.com,tbirmingham,01/07/2026,Computer freezing,High
+47051,lwarren@example.com,tbirmingham,01/06/2026,Email attachments failing,Medium
+47052,kmorris@example.com,tbirmingham,01/05/2026,Monitor flickering,Medium
+47053,rclark@example.com,tbirmingham,01/04/2026,VPN slow,Medium
+47054,hbrooks@example.com,tbirmingham,01/03/2026,Blue screen error,High
+47055,sjones@example.com,tbirmingham,01/02/2026,Cannot login to shared drive,High
+47056,cdavis@example.com,tbirmingham,01/01/2026,Outlook crashing,Medium
+47057,abaker@example.com,tbirmingham,12/31/2025,Keyboard not working,Medium
+47058,rjenkins@example.com,tbirmingham,12/30/2025,Cannot connect to VPN,High
+47059,jmorris@example.com,tbirmingham,12/29/2025,Software license expired,Low
+47060,lgray@example.com,tbirmingham,12/28/2025,Printer jammed,Medium
